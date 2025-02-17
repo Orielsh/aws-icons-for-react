@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "esnext", // Or a suitable target
+    "module": "esnext",  // or commonjs if you want commonjs module
+    "lib": ["es2020", "dom"],
+    "declaration": true, // Emit declaration files
+    "outDir": "./dist",   // Output directory for your library
+    "strict": true,
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "jsx": "react",
+    "types": ["vite/client"],
+    "baseUrl": "./src",
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+    "include": ["src"],
+    "exclude": ["node_modules", "dist"]
+}

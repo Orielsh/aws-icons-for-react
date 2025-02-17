@@ -1,0 +1,10 @@
+export { default as DevOpsGuruInsights48 } from "./DevOpsGuruInsights48";
+export { default as RekognitionImage48 } from "./RekognitionImage48";
+export { default as RekognitionVideo48 } from "./RekognitionVideo48";
+export { default as SageMakerCanvas48 } from "./SageMakerCanvas48";
+export { default as SageMakerGeospatialMl48 } from "./SageMakerGeospatialMl48";
+export { default as SageMakerModel48 } from "./SageMakerModel48";
+export { default as SageMakerNotebook48 } from "./SageMakerNotebook48";
+export { default as SageMakerShadowTesting48 } from "./SageMakerShadowTesting48";
+export { default as SageMakerTrain48 } from "./SageMakerTrain48";
+export { default as TextractAnalyzeLending48 } from "./TextractAnalyzeLending48";

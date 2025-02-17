@@ -1,0 +1,17 @@
+export { default as ResAwsApplicationDiscoveryServiceAwsAgentlessCollector48 } from "./ResAwsApplicationDiscoveryServiceAwsAgentlessCollector48";
+export { default as ResAwsApplicationDiscoveryServiceAwsDiscoveryAgent48 } from "./ResAwsApplicationDiscoveryServiceAwsDiscoveryAgent48";
+export { default as ResAwsApplicationDiscoveryServiceMigrationEvaluatorCollector48 } from "./ResAwsApplicationDiscoveryServiceMigrationEvaluatorCollector48";
+export { default as ResAwsDatasyncAgent48 } from "./ResAwsDatasyncAgent48";
+export { default as ResAwsDataSyncDiscovery48 } from "./ResAwsDataSyncDiscovery48";
+export { default as ResAwsMainframeModernizationAnalyzer48 } from "./ResAwsMainframeModernizationAnalyzer48";
+export { default as ResAwsMainframeModernizationCompiler48 } from "./ResAwsMainframeModernizationCompiler48";
+export { default as ResAwsMainframeModernizationConverter48 } from "./ResAwsMainframeModernizationConverter48";
+export { default as ResAwsMainframeModernizationDeveloper48 } from "./ResAwsMainframeModernizationDeveloper48";
+export { default as ResAwsMainframeModernizationRuntime48 } from "./ResAwsMainframeModernizationRuntime48";
+export { default as ResAwsMigrationHubRefactorSpacesApplications48 } from "./ResAwsMigrationHubRefactorSpacesApplications48";
+export { default as ResAwsMigrationHubRefactorSpacesEnvironments48 } from "./ResAwsMigrationHubRefactorSpacesEnvironments48";
+export { default as ResAwsMigrationHubRefactorSpacesServices48 } from "./ResAwsMigrationHubRefactorSpacesServices48";
+export { default as ResAwsTransferFamilyAwsAs248 } from "./ResAwsTransferFamilyAwsAs248";
+export { default as ResAwsTransferFamilyAwsFtps48 } from "./ResAwsTransferFamilyAwsFtps48";
+export { default as ResAwsTransferFamilyAwsFtp48 } from "./ResAwsTransferFamilyAwsFtp48";
+export { default as ResAwsTransferFamilyAwsSftp48 } from "./ResAwsTransferFamilyAwsSftp48";
